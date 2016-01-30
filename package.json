@@ -1,0 +1,24 @@
+{
+  "name": "tee-loader",
+  "version": "0.0.1",
+  "description": "Webpack loader that outputs the output from the previous loader and passes it to the next.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylorzane/tee-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "tee",
+    "loader"
+  ],
+  "author": "Taylor Zane Glaeser <tzglaeser@gmail.com> (https://github.com/taylorzane)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taylorzane/tee-loader/issues"
+  },
+  "homepage": "https://github.com/taylorzane/tee-loader"
+}
